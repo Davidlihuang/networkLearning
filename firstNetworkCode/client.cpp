@@ -9,7 +9,7 @@
 #include <arpa/inet.h>
 
 #define BUFFSIZE 2048
-#define SERVER_IP "192.168.0.111" //指定服务器的ip
+#define SERVER_IP "192.168.1.5" //指定服务器的ip
 #define SERVER_PORT 16555   //指定服务段的端口
 
 int main()
